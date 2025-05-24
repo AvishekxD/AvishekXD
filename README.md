@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/avishek-meena) [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AvishekzZ/) [![Amity Email](https://img.shields.io/badge/Email-Amity-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.meena@s.amity.edu) [![Personal Gmail](https://img.shields.io/badge/Email-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmeena0000@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/AvishekzZ/) [![Amity Email](https://img.shields.io/badge/Email-Amity-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.meena@s.amity.edu) [![Personal Gmail](https://img.shields.io/badge/Email-Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmeena0000@gmail.com) 
 
 
 
